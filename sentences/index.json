@@ -1,6 +1,196 @@
 {
   "Sentencias": [
 {
+    "Nombre": "20180905_GONZALEZ_vs_COCIGAS_SA_1_rev",
+    "Entrada": "16SA.179",
+    "Tipo": "Proceso Ordinario",
+    "Fecha": "2018-09-05 00:00:00",
+    "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+    "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+    "Articulos": "0",
+    "Responsable": {
+        "Tipo": "MAGISTRADO ",
+        "Nombre": " MAG. JUAN CARLOS TATIS "
+    },
+    "Partes": [
+        {
+            "Relevancia": "Demandante",
+            "Nombre": "Luis Gonz\u00e1lez Ja\u00e9n",
+            "Titulo": 0,
+            "Tipo": 0,
+            "Cedula": 0,
+            "Domicilio": 0
+        },
+        {
+            "Relevancia": "Demandado",
+            "Nombre": "Cocigas, S.A. ",
+            "Titulo": 0,
+            "Tipo": 0,
+            "Cedula": 0,
+            "Domicilio": 0
+        }
+    ],
+    "Cuerpo": [
+        {
+            "Tipo": "Body_1",
+            "Contenido": "Luego de superada la etapa de saneamiento y de la admisi\u00f3n y pr\u00e1ctica de pruebas en esta instancia, esta Superioridad procedi\u00f3 conforme a lo que establece el articulo 1278 del C\u00f3digo Judicial, se\u00f1alando el t\u00e9rmino de cinco (5) d\u00edas para que las partes sustenten sus escritos de apelaci\u00f3n y oposici\u00f3n, respectivamente; sin embargo, se observa a foja 554 del presente infolio que la Licenciada Norma E. Gonz\u00e1lez, apoderada judicial de Luis Gonz\u00e1lez Ja\u00e9n, dej\u00f3 precluir el t\u00e9rmino para la sustentaci\u00f3n del recurso de apelaci\u00f3n ensayado contra la Sentencia N\u00b08 de 7 de marzo de 2016, proferida por el Juzgado S\u00e9ptimo de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1. ",
+            "Articulo": [
+                "1278"
+            ],
+            "numerales": [
+                "0"
+            ],
+            "codigos": [
+                "C\u00f3digo Judicial"
+            ],
+            "Numero": 0
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "Luego de superada la etapa de saneamiento y de la admisi\u00f3n y pr\u00e1ctica de pruebas en esta instancia, esta Superioridad procedi\u00f3 conforme a lo que establece el articulo 1278 del C\u00f3digo Judicial, se\u00f1alando el t\u00e9rmino de cinco (5) d\u00edas para que las partes sustenten sus escritos de apelaci\u00f3n y oposici\u00f3n, respectivamente; sin embargo, se observa a foja 554 del presente infolio que la Licenciada Norma E. Gonz\u00e1lez, apoderada judicial de Luis Gonz\u00e1lez Ja\u00e9n, dej\u00f3 precluir el t\u00e9rmino para la sustentaci\u00f3n del recurso de apelaci\u00f3n ensayado contra la Sentencia N\u00b08 de 7 de marzo de 2016, proferida por el Juzgado S\u00e9ptimo de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1. ",
+            "Articulo": [
+                "1278"
+            ],
+            "numerales": [
+                "0"
+            ],
+            "codigos": [
+                "C\u00f3digo Judicial"
+            ],
+            "Numero": 0
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "Asimismo, el Licenciado Jaime Vega G. solicita mediante memorial visible a foja 553, se declare desierto el recurso ensayado por la parte actora. ",
+            "Articulo": [
+                "0"
+            ],
+            "numerales": [
+                "0"
+            ],
+            "codigos": [
+                "0"
+            ],
+            "Numero": 1
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "As\u00ed las cosas, a esta Superioridad le corresponde, entonces, aplicar lo preceptuado en el inciso tercero del art\u00edculo 1122 del C\u00f3digo Judicial, decretando desierta la apelaci\u00f3n no sustentada, se\u00f1alando, en consecuencia, las imperativas costas que impone la parte final del art\u00edculo 1072 del C\u00f3digo Judicial. ",
+            "Articulo": [
+                "1122",
+                "1072"
+            ],
+            "numerales": [
+                "0",
+                "0"
+            ],
+            "codigos": [
+                "C\u00f3digo Judicial",
+                "C\u00f3digo Judicial"
+            ],
+            "Numero": 2
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "As\u00ed las cosas, a esta Superioridad le corresponde, entonces, aplicar lo preceptuado en el inciso tercero del art\u00edculo 1122 del C\u00f3digo Judicial, decretando desierta la apelaci\u00f3n no sustentada, se\u00f1alando, en consecuencia, las imperativas costas que impone la parte final del art\u00edculo 1072 del C\u00f3digo Judicial. ",
+            "Articulo": [
+                "1122",
+                "1072"
+            ],
+            "numerales": [
+                "0",
+                "0"
+            ],
+            "codigos": [
+                "C\u00f3digo Judicial",
+                "C\u00f3digo Judicial"
+            ],
+            "Numero": 2
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "As\u00ed las cosas, a esta Superioridad le corresponde, entonces, aplicar lo preceptuado en el inciso tercero del art\u00edculo 1122 del C\u00f3digo Judicial, decretando desierta la apelaci\u00f3n no sustentada, se\u00f1alando, en consecuencia, las imperativas costas que impone la parte final del art\u00edculo 1072 del C\u00f3digo Judicial. ",
+            "Articulo": [
+                "1122",
+                "1072"
+            ],
+            "numerales": [
+                "0",
+                "0"
+            ],
+            "codigos": [
+                "C\u00f3digo Judicial",
+                "C\u00f3digo Judicial"
+            ],
+            "Numero": 2
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "En m\u00e9rito de lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, DECLARA DESIERTO el recurso de apelaci\u00f3n interpuesto por la representaci\u00f3n judicial de LUIS GONZ\u00c1LEZ JA\u00c9N, contra la Sentencia N\u00ba8 de 7 de marzo de 2016, proferida por el Juzgado S\u00e9ptimo de Circuito de lo Civil del Primer Circuito Judicial de Panam\u00e1. ",
+            "Articulo": [
+                "0"
+            ],
+            "numerales": [
+                "0"
+            ],
+            "codigos": [
+                "0"
+            ],
+            "Numero": 3
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "MANT\u00c9NGASE el presente proceso en este Tribunal hasta tanto se resuelva la apelaci\u00f3n interpuesta por el Lic. JAIME VEGA, visible a fojas 514-515, en representaci\u00f3n de la sociedad demandada COCIGAS, S.A. ",
+            "Articulo": [
+                "0"
+            ],
+            "numerales": [
+                "0"
+            ],
+            "codigos": [
+                "0"
+            ],
+            "Numero": 4
+        },
+        {
+            "Tipo": "Body_1",
+            "Contenido": "Las obligantes costas que por la declaratoria de desierto de la apelaci\u00f3n de la parte actora a se fijan en B/.25.00. ",
+            "Articulo": [
+                "0"
+            ],
+            "numerales": [
+                "0"
+            ],
+            "codigos": [
+                "0"
+            ],
+            "Numero": 5
+        }
+    ],
+    "Notificados": [
+        {
+            "Titulo": "0",
+            "Nombre": "JUAN CARLOS TATIS - Magistrado Suplente Personal ",
+            "Numero": "7"
+        },
+        {
+            "Titulo": "0",
+            "Nombre": "JANETH TORRES - Magistrada Suplente Especial ",
+            "Numero": "8"
+        },
+        {
+            "Titulo": "0",
+            "Nombre": "MIGUEL A. ESPINO E. - Magistrado ",
+            "Numero": "9"
+        },
+        {
+            "Titulo": "0",
+            "Nombre": "Jos\u00e9 Karama\u00f1ites - Secretario",
+            "Numero": "10"
+        }
+    ]
+},
+{
   "Nombre": "20180820_EDWIN_SANJUR_vs_JUEZ_DE_CIRCUITO_AMPARO_1_revMLC",
   "Entrada": "18AMP1.321",
   "Tipo":"Amparo de Garantías Constitucionales",
