@@ -2624,6 +2624,216 @@
             ]
         },
         {
+            "Nombre": "20180905_OLMEDO_OTROS_vs_OLMEDO_rev",
+            "Entrada": "17sa.337 ",
+            "Tipo": "Proceso Sumario",
+            "Fecha": "2018-09-05 00:00:00",
+            "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+            "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+            "Articulos": "0",
+            "Responsable": {
+                "Tipo": "Mag. Ponente",
+                "Nombre": "Nelson H. RUIZ"
+            },
+            "Partes": [
+                {
+                    "Relevancia": "empty",
+                    "Nombre": 0,
+                    "Titulo": 0,
+                    "Tipo": 0,
+                    "Cedula": 0,
+                    "Domicilio": 0
+                }
+            ],
+            "Cuerpo": [
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Procedente del Juzgado Primero de Circuito de lo Civil del Tercer Circuito Judicial de Panam\u00e1, arrib\u00f3 a esta Superioridad, el Proceso Sumario instaurado por los se\u00f1ores REN\u00c9 HUMBERTO OLMEDO MONTERO, RODRIGO HIR\u00c1N OLMEDO MONTERO y las se\u00f1oras NEREIDA ERIGZA OLMEDO DE LIPERO y ARACELI EDER\u00cdN OLMEDO MONTERO DE C\u00d3RDOBA contra el se\u00f1or ERNESTO FRANCISCO OLMEDO MONTERO, en virtud de que el Licenciado LUIS A. AGUILAR, apoderado judicial del demandado, promovi\u00f3 recurso de apelaci\u00f3n en contra de la Sentencia No.51-2017 de fecha doce (12) de julio de dos mil diecisiete (2017), dictado por la mencionada Juez Circuital.",
+                    "Articulo": [
+                        "0"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "0"
+                    ],
+                    "Numero": 0
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Este Tribunal, tras efectuar la revisi\u00f3n exhaustiva de las piezas remitidas por el Juzgado de primera instancia, advierte que existe raz\u00f3n formal suficiente que impide que esta Colegiatura pueda conocer de la alzada, pues tal y como se extrae de las constancias obrantes en el expediente, el recurso de apelaci\u00f3n promovido por el Licenciado LUIS A. AGUILAR, en representaci\u00f3n del se\u00f1or ERNESTO FRANCISCO OLMEDO MONTERO, fue interpuesto de manera extempor\u00e1nea.",
+                    "Articulo": [
+                        "0"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "0"
+                    ],
+                    "Numero": 1
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Decimos de lo anterior, en virtud de que los autos allegados a este Tribunal, se desprende el d\u00eda 24 de julio de 2017, se notific\u00f3 de la meritada sentencia el citado Licenciado LUIS E. AGUILAR, por lo que, partir de ese momento empezaba el conteo de los tres (3) d\u00edas a los que hace referencia el art\u00edculo 1132 del C\u00f3digo Judicial, para la interposici\u00f3n de recurso de apelaci\u00f3n, mismos que venc\u00edan el d\u00eda 27 de julio de 2017.",
+                    "Articulo": [
+                        "1132"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "C\u00f3digo Judicial"
+                    ],
+                    "Numero": 2
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Decimos de lo anterior, en virtud de que los autos allegados a este Tribunal, se desprende el d\u00eda 24 de julio de 2017, se notific\u00f3 de la meritada sentencia el citado Licenciado LUIS E. AGUILAR, por lo que, partir de ese momento empezaba el conteo de los tres (3) d\u00edas a los que hace referencia el art\u00edculo 1132 del C\u00f3digo Judicial, para la interposici\u00f3n de recurso de apelaci\u00f3n, mismos que venc\u00edan el d\u00eda 27 de julio de 2017.",
+                    "Articulo": [
+                        "1132"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "C\u00f3digo Judicial"
+                    ],
+                    "Numero": 2
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "A pesar de lo antes anotado, verifica esta corporaci\u00f3n de justicia que la Secretaria Judicial del Juzgado Primero de Circuito de lo Civil del Tercer Circuito Judicial de Panam\u00e1, indic\u00f3 al reverso de la foja 14 del presente cuaderno que el t\u00e9rmino para interponer recurso de apelaci\u00f3n venc\u00eda el d\u00eda 28 de julio de 2017.",
+                    "Articulo": [
+                        "0"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "0"
+                    ],
+                    "Numero": 3
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Es as\u00ed, que para fecha del 28 de julio de 2017, la representaci\u00f3n judicial del apelante anunci\u00f3 la alzada en contra de la mencionada Sentencia No.51-2017 de fecha doce (12) de julio de dos mil diecisiete (2017), lo que hizo a trav\u00e9s del escrito consultable a fojas 15 del presente cuaderno; sin embargo, tal interposici\u00f3n fue efectuada fuera del t\u00e9rmino legal establecido en el referido art\u00edculo 1132 del C\u00f3digo Judicial que, como se dej\u00f3 dicho, culmin\u00f3 el d\u00eda 27 de julio de 2017.",
+                    "Articulo": [
+                        "1132"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "C\u00f3digo Judicial"
+                    ],
+                    "Numero": 4
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Es as\u00ed, que para fecha del 28 de julio de 2017, la representaci\u00f3n judicial del apelante anunci\u00f3 la alzada en contra de la mencionada Sentencia No.51-2017 de fecha doce (12) de julio de dos mil diecisiete (2017), lo que hizo a trav\u00e9s del escrito consultable a fojas 15 del presente cuaderno; sin embargo, tal interposici\u00f3n fue efectuada fuera del t\u00e9rmino legal establecido en el referido art\u00edculo 1132 del C\u00f3digo Judicial que, como se dej\u00f3 dicho, culmin\u00f3 el d\u00eda 27 de julio de 2017.",
+                    "Articulo": [
+                        "1132"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "C\u00f3digo Judicial"
+                    ],
+                    "Numero": 4
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Es de este modo, pues aun cuando la Secretaria Judicial del Juzgado de origen, hizo constar al reverso de la foja 14 del presente cuaderno, que el vencimiento del t\u00e9rmino era el d\u00eda 28 de julio de 2017, es del caso, que el art\u00edculo 515 del C\u00f3digo Judicial, dispone que la constancia realizada por el Secretario \u201cno afectar\u00e1 los t\u00e9rminos correspondientes\u201d, por lo que el apoderado judicial del demandado ten\u00eda hasta el d\u00eda 27 de julio de 2017 para anunciar recurso de apelaci\u00f3n.",
+                    "Articulo": [
+                        "515"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "C\u00f3digo Judicial"
+                    ],
+                    "Numero": 5
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Es de este modo, pues aun cuando la Secretaria Judicial del Juzgado de origen, hizo constar al reverso de la foja 14 del presente cuaderno, que el vencimiento del t\u00e9rmino era el d\u00eda 28 de julio de 2017, es del caso, que el art\u00edculo 515 del C\u00f3digo Judicial, dispone que la constancia realizada por el Secretario \u201cno afectar\u00e1 los t\u00e9rminos correspondientes\u201d, por lo que el apoderado judicial del demandado ten\u00eda hasta el d\u00eda 27 de julio de 2017 para anunciar recurso de apelaci\u00f3n.",
+                    "Articulo": [
+                        "515"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "C\u00f3digo Judicial"
+                    ],
+                    "Numero": 5
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Frente al escenario planteado, donde la interposici\u00f3n del recurso de apelaci\u00f3n fue realizada fuera del t\u00e9rmino que la ley establece, se concluye que lo procedente es que este Tribunal se inhiba del conocimiento de la referida alzada y ordene la devoluci\u00f3n del expediente al juzgado de primera instancia. ",
+                    "Articulo": [
+                        "0"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "0"
+                    ],
+                    "Numero": 6
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Por las consideraciones que se han dejado expuestas, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, DECLARA EXTEMPOR\u00c1NEO el escrito de anuncio del recurso de apelaci\u00f3n presentado por el Licenciado LUIS A. AGUILAR, apoderado judicial del se\u00f1or ERNESTO FRANCISCO OLMEDO MONTERO y; en consecuencia, SE INHIBE del conocimiento de la alzada promovida por el Licenciado LUIS A. AGUILAR contra la Sentencia No.51-2017 de fecha doce (12) de julio de dos mil diecisiete (2017), proferida por la Juez Primera de Circuito de lo Civil del Tercer Circuito Judicial de Panam\u00e1.",
+                    "Articulo": [
+                        "0"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "0"
+                    ],
+                    "Numero": 7
+                },
+                {
+                    "Tipo": "Body_1",
+                    "Contenido": "Por tanto, ORDENA devolver el presente Proceso Sumario al Juzgado de origen.",
+                    "Articulo": [
+                        "0"
+                    ],
+                    "numerales": [
+                        "0"
+                    ],
+                    "codigos": [
+                        "0"
+                    ],
+                    "Numero": 8
+                }
+            ],
+            "Notificados": [
+                {
+                    "Titulo": "0",
+                    "Nombre": "MAG. NELSON H. RUIZ C.",
+                    "Numero": "10"
+                },
+                {
+                    "Titulo": "0",
+                    "Nombre": "MAG. JUAN CARLOS TATIS - SUPLENTE ESPECIAL",
+                    "Numero": "11"
+                },
+                {
+                    "Titulo": "0",
+                    "Nombre": "LICDO. JOS\u00c9 J. KARAMA\u00d1ITES - SECRETARIO",
+                    "Numero": "12"
+                }
+            ]
+        },
+        {
             "Nombre": "20181001_MEGAPOLIS_INVESTMENT_vs_ARROUND_THE_WORLD_rev",
             "Entrada": "18SA.052",
             "Tipo": "Proceso Ordinario",
