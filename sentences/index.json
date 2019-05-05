@@ -1784,6 +1784,1493 @@
                 "Numero": "62"
             }
         ]
+    },
+    {
+        "Nombre": "20180808_ARRENDADORA_INTERNACIONAL_vs_JUZGADO_SEPTIMO_PRIMER_CIRCUITO_JUDICIAL_1_rev",
+        "Entrada": "18AMP1.293",
+        "Tipo": "AMPARO DE GARANT\u00cdAS CONSTITUCIONALES",
+        "Fecha": "2018-08-08 00:00:00",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+        "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+        "Articulos": "0",
+        "Responsable": {
+            "Tipo": "PONENTE",
+            "Nombre": " MAG. CARLOS RA\u00daL TRUJILLO SAGEL"
+        },
+        "Partes": [
+            {
+                "Relevancia": "Demandante",
+                "Nombre": "ARRENDADORA INTERNACIONAL, S.A.",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "JUZGADO SEPTIMO DE LO CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAM\u00c1",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            }
+        ],
+        "Cuerpo": [
+            {
+                "Tipo": "Body_1",
+                "Contenido": "El se\u00f1or DANIEL GONZALEZ SANTIESTEBAN, actuando es su condici\u00f3n de Sub-Gerente y como Representante Legal de la sociedad denominada ARRENDADORA INTERNACIONAL, S.A., por intermedio de apoderada judicial, acude ante esta Corporaci\u00f3n de Justicia para promover la acci\u00f3n extraordinaria de amparo de garant\u00edas constitucionales en contra del licenciado GUILLERMO BALLESTEROS, Juez S\u00e9ptimo de lo Civil del Primer Circuito Judicial de Panam\u00e1, con el fin de que se deje sin efecto el Auto N\u00ba 2078 de 13 de junio de 2018, emitido en el Proceso Ejecutivo que ARRENDADORA INTERNACIONAL, S.A. instaurara en contra de CONSORCIO HEYMOCOL PROCOMON, S.A. (SOCIEDAD ACCIDENTAL), HEYMOCOL, S.A. y PROCOMON & ASOCIADOS, S.A (quienes conforman la sociedad accidental denominada CONSORCIO HEYMOCOL PROCOMON, S.A.); NELSON ROBERTO DEDOYA SANTA CRUZ y OMAR OTALORA BARBOSA (FIADORES), que decreta la caducidad extraordinaria de la instancia en dicho proceso y ordena el archivo del expediente.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 0
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Corresponde al Tribunal, en primer lugar, verificar si la presente demanda cumple con los requisitos de forma y los presupuestos que determinan los art\u00edculos 2615, 2616, 2617, 2618 y 2619 del C\u00f3digo Judicial, a fin de establecer si est\u00e1 debidamente formulada y no fuere manifiestamente improcedente la acci\u00f3n constitucional en ella promovida.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 1
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En ese sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, se advierte de partida que la misma no es acompa\u00f1ada de la prueba que acredite la circunstancia sobre el agotamiento del medio ordinario de impugnaci\u00f3n contra la orden demandada, que en esta ocasi\u00f3n corresponde al recurso de reconsideraci\u00f3n, como lo prescribe el art\u00edculo 1113 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "1113"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 2
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En ese sentido, si bien la demanda cumple con los requisitos comunes a toda demanda, se advierte de partida que la misma no es acompa\u00f1ada de la prueba que acredite la circunstancia sobre el agotamiento del medio ordinario de impugnaci\u00f3n contra la orden demandada, que en esta ocasi\u00f3n corresponde al recurso de reconsideraci\u00f3n, como lo prescribe el art\u00edculo 1113 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "1113"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 2
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Al demandarse una actuaci\u00f3n judicial, en este caso, la resoluci\u00f3n que decreta la caducidad extraordinaria de la instancia, al tenor del numeral 2 del inciso final del art\u00edculo 2615 del C\u00f3digo Judicial, la acci\u00f3n de amparo requiere, para interponerse o proceder, que se haya interpuesto oportunamente y decidido el recurso de reconsideraci\u00f3n.",
+                "Articulo": [
+                    "2615"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Al demandarse una actuaci\u00f3n judicial, en este caso, la resoluci\u00f3n que decreta la caducidad extraordinaria de la instancia, al tenor del numeral 2 del inciso final del art\u00edculo 2615 del C\u00f3digo Judicial, la acci\u00f3n de amparo requiere, para interponerse o proceder, que se haya interpuesto oportunamente y decidido el recurso de reconsideraci\u00f3n.",
+                "Articulo": [
+                    "2615"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En m\u00e9rito de lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEJUSTICIA, administrando justicia en nombre de la Rep\u00fablica y por autoridad de la Ley, NO ADMITE la demanda de amparo de garant\u00edas constitucionales propuesta por ARRENDADORA INTERNACIONAL, S.A. en contra de la orden contenida en el Auto N\u00b02078 de 13 de junio de 2018, dictado por el Juzgado S\u00e9ptimo de lo Civil del Primer Circuito Judicial de Panam\u00e1.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 4
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "T\u00e9mgase a la firma forense RIVERA, BOLIVAR Y CASTA\u00d1EDAS como apoderada judicial, en los t\u00e9rminos y facultades concedidas por la amparista poderdante.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 5
+            }
+        ],
+        "Notificados": [
+            {
+                "Titulo": "0",
+                "Nombre": "CARLOS RA\u00daL TRUJILLO SAGEL \u2013 MAGISTRADO ",
+                "Numero": "7"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "OLGA RUJANO - MAGISTRADA",
+                "Numero": "8"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MIGUEL A. ESPINO G. - MAGISTRADO",
+                "Numero": "9"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "Jos\u00e9 Karama\u00f1ites \u2013 Secretario",
+                "Numero": "10"
+            }
+        ]
+    },
+    {
+        "Nombre": "20180808_INVERSIONES_FINANZAS_REY_contra_SANTIAGO_MONTERUIZ_OTROS_1_rev",
+        "Entrada": "18AA.100",
+        "Tipo": "PROCESO ORDINARIO",
+        "Fecha": "2018-08-08 00:00:00",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+        "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+        "Articulos": "0",
+        "Responsable": {
+            "Tipo": "MAGISTRADO ",
+            "Nombre": " LILIANNE M. DUCRUET"
+        },
+        "Partes": [
+            {
+                "Relevancia": "Demandante",
+                "Nombre": "FINANZAS REY S.A",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "SANTIAGO MONTERUIZ",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "RANDOLPH LEWIN JEREMIAH BARROW",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "DAVID GUARDIA QUIJADA",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            }
+        ],
+        "Cuerpo": [
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Mediante Auto No.91 de diecisiete (17) de enero de dos mil dieciocho (2018), dictado por el Juzgado Decimos\u00e9ptimo de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, dentro del Proceso Ordinario propuesto por INVERSIONES Y FINANZAS REY, S.A., contra SANTIAGO MONTERUIZ, RANDOLPH LEWIN JEREMIAH BARROW y DAVID GUARDIA QUIJADA, resolvi\u00f3 lo siguiente:",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 0
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "\u201cPor lo antes expuesto, la suscrita JUEZ DECIMOS\u00c9PTIMA CIVIL DEL PRIMER CIRCUITO JUDICIAL DE PANAMA, Suplente Especial, administrando justicia en nombre de la Rep\u00fablica y por autoridad de Ley, TIENE por no presentada la demanda y en consecuencia, ORDENA EL ARCHIVO del Proceso Ordinario propuesto por INVERSIONES Y FINANZAS REY, S.A., contra SANTIAGO MONTERUIZ, RANDOLPH LEWIN JEREMIAH BARROW y DAVID GUARDIA, previa anotaci\u00f3n de su salida en el libro de registro respectivo\u201d (fs.89).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 1
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "De tal decisi\u00f3n, el Licenciado JUAN CARLOS HERRERA MURGAS apoderado judicial del se\u00f1or DAVID GUARDIA QUIJADA, apel\u00f3 y present\u00f3 escrito de sustentaci\u00f3n (fs. 92-102); lo que motiv\u00f3 la concesi\u00f3n del recurso en el efecto suspensivo (fs.104).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 2
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Pues, luego del reparto y del saneamiento en rigor, el proceso ha quedado en estado de resolver labor a la que se apresta el Tribunal estudiando la cuesti\u00f3n controvertida y confront\u00e1ndola con las disposiciones legales en materia para proceder entonces a la emisi\u00f3n de un pronunciamiento de fondo respecto a lo decidido en primera instancia. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": "Head_1",
+                "Contenido": "SUSTENTACI\u00d3N DE LA APELACI\u00d3N",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 4
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por su parte, el apelante sostiene que el tribunal A-quo consider\u00f3 contrario a derecho, el archivo del proceso, al estimar que no se present\u00f3 la correcci\u00f3n de la demanda solicitada a trav\u00e9s del Auto No.1655 de 5 de octubre de 2017; consideraci\u00f3n que se contrapone a las disposiciones de car\u00e1cter procedimental, toda vez que el desistimiento de la demanda fue promovido durante el t\u00e9rmino otorgado para la correcci\u00f3n, lo que implica que el juez deb\u00eda correr traslado de la solicitud de desistimiento como en efecto lo hizo y ante la oposici\u00f3n del demandado, el mismo perd\u00eda eficacia lo que consecuentemente tra\u00eda consigo la continuaci\u00f3n del tr\u00e1mite del proceso, en el caso particular el juez de primera instancia debi\u00f3 negar el desistimiento seg\u00fan lo establecido en el art\u00edculo 1094 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "1094"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por su parte, el apelante sostiene que el tribunal A-quo consider\u00f3 contrario a derecho, el archivo del proceso, al estimar que no se present\u00f3 la correcci\u00f3n de la demanda solicitada a trav\u00e9s del Auto No.1655 de 5 de octubre de 2017; consideraci\u00f3n que se contrapone a las disposiciones de car\u00e1cter procedimental, toda vez que el desistimiento de la demanda fue promovido durante el t\u00e9rmino otorgado para la correcci\u00f3n, lo que implica que el juez deb\u00eda correr traslado de la solicitud de desistimiento como en efecto lo hizo y ante la oposici\u00f3n del demandado, el mismo perd\u00eda eficacia lo que consecuentemente tra\u00eda consigo la continuaci\u00f3n del tr\u00e1mite del proceso, en el caso particular el juez de primera instancia debi\u00f3 negar el desistimiento seg\u00fan lo establecido en el art\u00edculo 1094 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "1094"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Asevera que el juzgado de primera instancia, al emitir el Auto No.91 de 17 de enero de 2018; quebrant\u00f3 el principio de congruencia, el cual la ley procesal lo define como el deber del juzgador de resolver el proceso sin rebasar los l\u00edmites de la controversia; en el caso particular no se resolvi\u00f3 el objeto de la controversia que lo constitu\u00eda la solicitud de desistimiento del proceso, sino que se adelant\u00f3 a los hechos que se desarrollaban en el proceso y declar\u00f3 el archivo del mismo, a sabiendas que el t\u00e9rmino para la correcci\u00f3n de la demanda fue suspendido al momento en que se present\u00f3 el desistimiento; pues el apelante- demandado, aclara que lo que pretende establecer es que la juez extralimit\u00f3 al no resolver el desistimiento cuyo resultado acarrea otras consecuencias jur\u00eddicas tales como la imposici\u00f3n de costas de conformidad a lo establecido en el art\u00edculo 1099 del C\u00f3digo Judicial; m\u00e1s a\u00fan, cuando el escrito presentado implica una conducta procesal temeraria similar a todas las actuaciones que ha realizado desde el momento en que trab\u00f3 la litis, conducta que se enmarca de mala fe procesal la cual debe ser condenada en costas; seguidamente, transcribe los art\u00edculo 199 y 475 del C\u00f3digo Judicial, al se\u00f1alar que guardan relaci\u00f3n con el principio de congruencia.",
+                "Articulo": [
+                    "1099",
+                    "199",
+                    "475"
+                ],
+                "numerales": [
+                    "0",
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    0,
+                    0
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Asevera que el juzgado de primera instancia, al emitir el Auto No.91 de 17 de enero de 2018; quebrant\u00f3 el principio de congruencia, el cual la ley procesal lo define como el deber del juzgador de resolver el proceso sin rebasar los l\u00edmites de la controversia; en el caso particular no se resolvi\u00f3 el objeto de la controversia que lo constitu\u00eda la solicitud de desistimiento del proceso, sino que se adelant\u00f3 a los hechos que se desarrollaban en el proceso y declar\u00f3 el archivo del mismo, a sabiendas que el t\u00e9rmino para la correcci\u00f3n de la demanda fue suspendido al momento en que se present\u00f3 el desistimiento; pues el apelante- demandado, aclara que lo que pretende establecer es que la juez extralimit\u00f3 al no resolver el desistimiento cuyo resultado acarrea otras consecuencias jur\u00eddicas tales como la imposici\u00f3n de costas de conformidad a lo establecido en el art\u00edculo 1099 del C\u00f3digo Judicial; m\u00e1s a\u00fan, cuando el escrito presentado implica una conducta procesal temeraria similar a todas las actuaciones que ha realizado desde el momento en que trab\u00f3 la litis, conducta que se enmarca de mala fe procesal la cual debe ser condenada en costas; seguidamente, transcribe los art\u00edculo 199 y 475 del C\u00f3digo Judicial, al se\u00f1alar que guardan relaci\u00f3n con el principio de congruencia.",
+                "Articulo": [
+                    "1099",
+                    "199",
+                    "475"
+                ],
+                "numerales": [
+                    "0",
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    0,
+                    0
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Asevera que el juzgado de primera instancia, al emitir el Auto No.91 de 17 de enero de 2018; quebrant\u00f3 el principio de congruencia, el cual la ley procesal lo define como el deber del juzgador de resolver el proceso sin rebasar los l\u00edmites de la controversia; en el caso particular no se resolvi\u00f3 el objeto de la controversia que lo constitu\u00eda la solicitud de desistimiento del proceso, sino que se adelant\u00f3 a los hechos que se desarrollaban en el proceso y declar\u00f3 el archivo del mismo, a sabiendas que el t\u00e9rmino para la correcci\u00f3n de la demanda fue suspendido al momento en que se present\u00f3 el desistimiento; pues el apelante- demandado, aclara que lo que pretende establecer es que la juez extralimit\u00f3 al no resolver el desistimiento cuyo resultado acarrea otras consecuencias jur\u00eddicas tales como la imposici\u00f3n de costas de conformidad a lo establecido en el art\u00edculo 1099 del C\u00f3digo Judicial; m\u00e1s a\u00fan, cuando el escrito presentado implica una conducta procesal temeraria similar a todas las actuaciones que ha realizado desde el momento en que trab\u00f3 la litis, conducta que se enmarca de mala fe procesal la cual debe ser condenada en costas; seguidamente, transcribe los art\u00edculo 199 y 475 del C\u00f3digo Judicial, al se\u00f1alar que guardan relaci\u00f3n con el principio de congruencia.",
+                "Articulo": [
+                    "1099",
+                    "199",
+                    "475"
+                ],
+                "numerales": [
+                    "0",
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    0,
+                    0
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Asevera que el juzgado de primera instancia, al emitir el Auto No.91 de 17 de enero de 2018; quebrant\u00f3 el principio de congruencia, el cual la ley procesal lo define como el deber del juzgador de resolver el proceso sin rebasar los l\u00edmites de la controversia; en el caso particular no se resolvi\u00f3 el objeto de la controversia que lo constitu\u00eda la solicitud de desistimiento del proceso, sino que se adelant\u00f3 a los hechos que se desarrollaban en el proceso y declar\u00f3 el archivo del mismo, a sabiendas que el t\u00e9rmino para la correcci\u00f3n de la demanda fue suspendido al momento en que se present\u00f3 el desistimiento; pues el apelante- demandado, aclara que lo que pretende establecer es que la juez extralimit\u00f3 al no resolver el desistimiento cuyo resultado acarrea otras consecuencias jur\u00eddicas tales como la imposici\u00f3n de costas de conformidad a lo establecido en el art\u00edculo 1099 del C\u00f3digo Judicial; m\u00e1s a\u00fan, cuando el escrito presentado implica una conducta procesal temeraria similar a todas las actuaciones que ha realizado desde el momento en que trab\u00f3 la litis, conducta que se enmarca de mala fe procesal la cual debe ser condenada en costas; seguidamente, transcribe los art\u00edculo 199 y 475 del C\u00f3digo Judicial, al se\u00f1alar que guardan relaci\u00f3n con el principio de congruencia.",
+                "Articulo": [
+                    "1099",
+                    "199",
+                    "475"
+                ],
+                "numerales": [
+                    "0",
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    0,
+                    0
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Y es que, explica que las normas de car\u00e1cter procedimental dan por establecido que el juez de primera instancia infringi\u00f3 las mismas, puesto que ha resuelto un hecho no controvertido, adelant\u00e1ndose a las conductas procesales y sin considerar que al presentarse el desistimiento dentro del t\u00e9rmino concedido para la correcci\u00f3n qued\u00f3 supeditado y limitado a pronunciarse sobre el desistimiento.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 7
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Advierte que, la formulaci\u00f3n del desistimiento del proceso es contrario a derecho y representa una conducta temeraria, ya que la parte actora al desistir de la demanda pretend\u00eda liberarse de la responsabilidad de los da\u00f1os y perjuicios causados, hecho que fue validado por el juez de primera instancia, al declarar el archivo del proceso sin condenar en costas, siendo esta actuaci\u00f3n contraria a derecho dado que durante el desarrollo del proceso se ejecutaron restricciones como la anotaci\u00f3n de la demanda sobre bienes, lo que implica que pasaron a estar fuera del comercio, as\u00ed como la medida cautelar de secuestro que recay\u00f3 sobre los mismos; adem\u00e1s afirma que los demandados estaban bajo las rigurosidades de una demanda temeraria y con matices de la mala fe procesal, ya que uno de sus mandante es diputado suplente, y por la prerrogativas que ostenta para proceder civilmente en contra de este debe cumplirse con lo establecido en la Constituci\u00f3n. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 8
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Que conforme al art\u00edculo 215 del C\u00f3digo Judicial, el cual indica c\u00f3mo deben actuar las partes dentro del proceso, sostiene el apelante que, se observa la falta de lealtad por parte la parte actora, al no actuar de buena fe, y promover demanda temeraria con posterior desistimiento, a efectos de evadir los graves da\u00f1os y perjuicios causados; agrega que, este es un hecho v\u00e1lido ya que el juzgador de origen permiti\u00f3 el abuso de derecho as\u00ed como el desistimiento sin hacer a la parte demandante responsable de los da\u00f1os, es decir, sin la respectiva condena a\u00fan cuando ha mediado en el proceso medidas cautelares seg\u00fan lo dispone el art\u00edculo 1099 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "215",
+                    "1099"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 9
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Que conforme al art\u00edculo 215 del C\u00f3digo Judicial, el cual indica c\u00f3mo deben actuar las partes dentro del proceso, sostiene el apelante que, se observa la falta de lealtad por parte la parte actora, al no actuar de buena fe, y promover demanda temeraria con posterior desistimiento, a efectos de evadir los graves da\u00f1os y perjuicios causados; agrega que, este es un hecho v\u00e1lido ya que el juzgador de origen permiti\u00f3 el abuso de derecho as\u00ed como el desistimiento sin hacer a la parte demandante responsable de los da\u00f1os, es decir, sin la respectiva condena a\u00fan cuando ha mediado en el proceso medidas cautelares seg\u00fan lo dispone el art\u00edculo 1099 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "215",
+                    "1099"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 9
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Que conforme al art\u00edculo 215 del C\u00f3digo Judicial, el cual indica c\u00f3mo deben actuar las partes dentro del proceso, sostiene el apelante que, se observa la falta de lealtad por parte la parte actora, al no actuar de buena fe, y promover demanda temeraria con posterior desistimiento, a efectos de evadir los graves da\u00f1os y perjuicios causados; agrega que, este es un hecho v\u00e1lido ya que el juzgador de origen permiti\u00f3 el abuso de derecho as\u00ed como el desistimiento sin hacer a la parte demandante responsable de los da\u00f1os, es decir, sin la respectiva condena a\u00fan cuando ha mediado en el proceso medidas cautelares seg\u00fan lo dispone el art\u00edculo 1099 del C\u00f3digo Judicial.",
+                "Articulo": [
+                    "215",
+                    "1099"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 9
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por lo que, manifiesta que nuestra normativa de procedimiento hace referencia en su art\u00edculo 217 sobre la responsabilidad de las partes intervinientes, si causan a la otra parte da\u00f1os y perjuicios, tal como lo ha causado la demandante con la presentaci\u00f3n de la demanda.",
+                "Articulo": [
+                    "217"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 10
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por lo que, manifiesta que nuestra normativa de procedimiento hace referencia en su art\u00edculo 217 sobre la responsabilidad de las partes intervinientes, si causan a la otra parte da\u00f1os y perjuicios, tal como lo ha causado la demandante con la presentaci\u00f3n de la demanda.",
+                "Articulo": [
+                    "217"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 10
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por \u00faltimo solicita la parte demandada que se revoque el archivo del proceso decretado y, consecuentemente, seguir con el proceso, condenar por da\u00f1os y perjuicios a los demandantes, as\u00ed como la condena en costas ejemplares confirme a la temeridad de la demanda y la mala fe profesional.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 11
+            },
+            {
+                "Tipo": "Head_1",
+                "Contenido": "CRITERIO DEL TRIBUNAL",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 12
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "De acuerdo a las constancias procesales, la sociedad INVERSIONES Y FINANZAS DEL REY, S.A.; present\u00f3 demanda ordinaria en contra de RANDOLPH LEWIN, JEREMIAH BARROW, SANTIAGO MONTERUIZ Y DAVID GUARDIA QUIJADA, la cual mediante Auto No.1516 de 28 de octubre de 2016 (fs.54), el Juzgado Decimos\u00e9ptimo de Circuito de lo Civil del Primer Circuito Judicial orden\u00f3 corregir la demanda, debido a lo cual, la sociedad demandante procedi\u00f3 a trav\u00e9s de sus apoderados judiciales a corregir la demanda, misma que fue admitida a trav\u00e9s del Auto No.1643 de 23 de noviembre de 2016 (fs.64-65).",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 13
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Mediante Auto No.1672 de 1 de diciembre de 2016 (fs.66), el juzgador orden\u00f3 la inscripci\u00f3n provisional de la demanda misma que recay\u00f3 sobre dos bienes inmuebles; por lo que, dentro del t\u00e9rmino de traslado de la admisi\u00f3n de la demanda, el apoderado judicial de los demandantes present\u00f3 formal solicitud de correcci\u00f3n de la demanda con fundamento en el art\u00edculo 687 del C\u00f3digo Judicial (fs.75); posteriormente, la parte demandante solicit\u00f3 el retiro de la demanda (fs.76), siendo as\u00ed, por medio del Auto No.1655 de 5 de octubre de 2017, el juzgado de primera instancia orden\u00f3 la correcci\u00f3n de la demanda corregida y se neg\u00f3 el retiro de la demanda (fs.77-78), de forma tal, que dentro del t\u00e9rmino de notificaci\u00f3n del meritado auto, los apoderados judiciales de INVERSIONES Y FINANZAS DEL REY, S.A., procedieron a presentar escrito de desistimiento del proceso, cual fue objetado en tiempo oportuno de conformidad al art\u00edculo 1094 del C\u00f3digo Judicial; seguidamente la juez A-quo, emiti\u00f3 el Auto No.91 de 17 de enero de 2018, mediante el cual se tuvo por no presentada la demanda y en consecuencia se orden\u00f3 el archivo.",
+                "Articulo": [
+                    "687",
+                    "1094"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 14
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Mediante Auto No.1672 de 1 de diciembre de 2016 (fs.66), el juzgador orden\u00f3 la inscripci\u00f3n provisional de la demanda misma que recay\u00f3 sobre dos bienes inmuebles; por lo que, dentro del t\u00e9rmino de traslado de la admisi\u00f3n de la demanda, el apoderado judicial de los demandantes present\u00f3 formal solicitud de correcci\u00f3n de la demanda con fundamento en el art\u00edculo 687 del C\u00f3digo Judicial (fs.75); posteriormente, la parte demandante solicit\u00f3 el retiro de la demanda (fs.76), siendo as\u00ed, por medio del Auto No.1655 de 5 de octubre de 2017, el juzgado de primera instancia orden\u00f3 la correcci\u00f3n de la demanda corregida y se neg\u00f3 el retiro de la demanda (fs.77-78), de forma tal, que dentro del t\u00e9rmino de notificaci\u00f3n del meritado auto, los apoderados judiciales de INVERSIONES Y FINANZAS DEL REY, S.A., procedieron a presentar escrito de desistimiento del proceso, cual fue objetado en tiempo oportuno de conformidad al art\u00edculo 1094 del C\u00f3digo Judicial; seguidamente la juez A-quo, emiti\u00f3 el Auto No.91 de 17 de enero de 2018, mediante el cual se tuvo por no presentada la demanda y en consecuencia se orden\u00f3 el archivo.",
+                "Articulo": [
+                    "687",
+                    "1094"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 14
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Mediante Auto No.1672 de 1 de diciembre de 2016 (fs.66), el juzgador orden\u00f3 la inscripci\u00f3n provisional de la demanda misma que recay\u00f3 sobre dos bienes inmuebles; por lo que, dentro del t\u00e9rmino de traslado de la admisi\u00f3n de la demanda, el apoderado judicial de los demandantes present\u00f3 formal solicitud de correcci\u00f3n de la demanda con fundamento en el art\u00edculo 687 del C\u00f3digo Judicial (fs.75); posteriormente, la parte demandante solicit\u00f3 el retiro de la demanda (fs.76), siendo as\u00ed, por medio del Auto No.1655 de 5 de octubre de 2017, el juzgado de primera instancia orden\u00f3 la correcci\u00f3n de la demanda corregida y se neg\u00f3 el retiro de la demanda (fs.77-78), de forma tal, que dentro del t\u00e9rmino de notificaci\u00f3n del meritado auto, los apoderados judiciales de INVERSIONES Y FINANZAS DEL REY, S.A., procedieron a presentar escrito de desistimiento del proceso, cual fue objetado en tiempo oportuno de conformidad al art\u00edculo 1094 del C\u00f3digo Judicial; seguidamente la juez A-quo, emiti\u00f3 el Auto No.91 de 17 de enero de 2018, mediante el cual se tuvo por no presentada la demanda y en consecuencia se orden\u00f3 el archivo.",
+                "Articulo": [
+                    "687",
+                    "1094"
+                ],
+                "numerales": [
+                    "0",
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial",
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 14
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "As\u00ed pues, luego de revisar las constancias procesales, y de confrontar los puntos contenidos en el recurso de apelaci\u00f3n contra el Auto No.91 de 17 de enero de 2019, se deduce que no resuelven temas de fondo y se sujetan al tr\u00e1mite, t\u00e9rmino y condici\u00f3n de que se cumpla con lo requerido por el juzgador y al no atenderse la formalidad basado en la norma procesal del art\u00edculo 666 del C\u00f3digo Judicial se ordenar\u00e1 su archivo. En el caso que nos ocupa, el juzgador en su momento consider\u00f3 que, toda vez que, no se hab\u00edan atendido los defectos se\u00f1alados para la admisibilidad, la demanda se ten\u00eda como no presentada, sin que surtiera los efectos jur\u00eddicos, raz\u00f3n por lo cual, esta Superioridad advierte que comparte plenamente la decisi\u00f3n adoptada por la juez A-quo, en virtud de que es cierto que el demandante no atendi\u00f3 en debida forma las correcciones que le fueron ordenadas mediante el Auto No.1655 de 5 de octubre de 2017.",
+                "Articulo": [
+                    "666"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 15
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "As\u00ed pues, luego de revisar las constancias procesales, y de confrontar los puntos contenidos en el recurso de apelaci\u00f3n contra el Auto No.91 de 17 de enero de 2019, se deduce que no resuelven temas de fondo y se sujetan al tr\u00e1mite, t\u00e9rmino y condici\u00f3n de que se cumpla con lo requerido por el juzgador y al no atenderse la formalidad basado en la norma procesal del art\u00edculo 666 del C\u00f3digo Judicial se ordenar\u00e1 su archivo. En el caso que nos ocupa, el juzgador en su momento consider\u00f3 que, toda vez que, no se hab\u00edan atendido los defectos se\u00f1alados para la admisibilidad, la demanda se ten\u00eda como no presentada, sin que surtiera los efectos jur\u00eddicos, raz\u00f3n por lo cual, esta Superioridad advierte que comparte plenamente la decisi\u00f3n adoptada por la juez A-quo, en virtud de que es cierto que el demandante no atendi\u00f3 en debida forma las correcciones que le fueron ordenadas mediante el Auto No.1655 de 5 de octubre de 2017.",
+                "Articulo": [
+                    "666"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 15
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Si bien lo discutido en este caso no guarda relaci\u00f3n con la debida integraci\u00f3n procesal, m\u00e1s bien se trata de determinar si el demandante acat\u00f3 la orden que profiri\u00f3 la juez de conocimiento en su momento o, por el contrario, si no la cumpli\u00f3, entonces, si la parte actora no hizo las correcciones o las hizo en distinta manera, mal puede pretender que esta Judicatura, revoque el Auto No.91 de 17 de enero de 2018.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 16
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En cuanto a lo sostenido por el demandado, al manifestar que \u201cel t\u00e9rmino para la correcci\u00f3n de la demanda fue suspendido al momento en que se present\u00f3 el desistimiento\u201d; considera esta Colegiatura que es pertinente aclarar que el t\u00e9rmino de correcci\u00f3n de la demanda no se suspende a raz\u00f3n de la solicitud del desistimiento; por tanto, a\u00fan cuando de las constancias procesales se desprende que la parte demandada se opuso a la meritada solicitud, el C\u00f3digo Judicial en su art\u00edculo 1094 es claro al precisar que si mediare oposici\u00f3n, el desistimiento carecer\u00e1 de justicia y proseguir\u00e1 el tr\u00e1mite del proceso; en ese sentido, la Juzgadora de primera instancia imprimi\u00f3 el tr\u00e1mite correspondiente, ya que prosigui\u00f3 con el proceso lo que devino como consecuencia l\u00f3gica el archivo del proceso ordinario, al no presentarse la demanda corregida.",
+                "Articulo": [
+                    "1094"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 17
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En cuanto a lo sostenido por el demandado, al manifestar que \u201cel t\u00e9rmino para la correcci\u00f3n de la demanda fue suspendido al momento en que se present\u00f3 el desistimiento\u201d; considera esta Colegiatura que es pertinente aclarar que el t\u00e9rmino de correcci\u00f3n de la demanda no se suspende a raz\u00f3n de la solicitud del desistimiento; por tanto, a\u00fan cuando de las constancias procesales se desprende que la parte demandada se opuso a la meritada solicitud, el C\u00f3digo Judicial en su art\u00edculo 1094 es claro al precisar que si mediare oposici\u00f3n, el desistimiento carecer\u00e1 de justicia y proseguir\u00e1 el tr\u00e1mite del proceso; en ese sentido, la Juzgadora de primera instancia imprimi\u00f3 el tr\u00e1mite correspondiente, ya que prosigui\u00f3 con el proceso lo que devino como consecuencia l\u00f3gica el archivo del proceso ordinario, al no presentarse la demanda corregida.",
+                "Articulo": [
+                    "1094"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 17
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por otro lado, de acuerdo a lo externado por el demandado es ostensible que el solo hecho de haber presentado demanda ordinaria y haber mediado secuestro, no le otorga al demandado el derecho a obtener una condena por concepto de da\u00f1os y perjuicios conforme al art\u00edculo 217 del C\u00f3digo Judicial, ya que ello esta supeditado a que se demuestre fehacientemente en el proceso. Adem\u00e1s, no se desprende de la presente causa actuaciones procesales contrarias a derecho para que haya lugar al reclamo de da\u00f1os y perjuicios en virtud de la temeridad y mala fe, tal y como lo sostiene el demandado; puesto que no se evidencia que aqu\u00e9l proceso haya sido promovido con ese prop\u00f3sito.",
+                "Articulo": [
+                    "217"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 18
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por otro lado, de acuerdo a lo externado por el demandado es ostensible que el solo hecho de haber presentado demanda ordinaria y haber mediado secuestro, no le otorga al demandado el derecho a obtener una condena por concepto de da\u00f1os y perjuicios conforme al art\u00edculo 217 del C\u00f3digo Judicial, ya que ello esta supeditado a que se demuestre fehacientemente en el proceso. Adem\u00e1s, no se desprende de la presente causa actuaciones procesales contrarias a derecho para que haya lugar al reclamo de da\u00f1os y perjuicios en virtud de la temeridad y mala fe, tal y como lo sostiene el demandado; puesto que no se evidencia que aqu\u00e9l proceso haya sido promovido con ese prop\u00f3sito.",
+                "Articulo": [
+                    "217"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 18
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por esa raz\u00f3n, si se aceptara como v\u00e1lida la tesis de que al interponerse una demanda ordinaria y medida cautelar contra los bienes del demandado, todo demandante se ver\u00eda obligado a indemnizar a la parte contraria, por la sola adopci\u00f3n de la medida, en caso de no probar su pretensi\u00f3n. En otras palabras, equivale a decir que nadie promover\u00eda una demanda, ni interpondr\u00eda una medida cautelar por el riesgo que tendr\u00eda, ya que forzosamente se verla obligado a indemnizar al demandado. De manera que, para esta Superioridad le resulta imposible acceder al reconocimiento de los da\u00f1os y perjuicios en los t\u00e9rminos planteados por el demandado, ante la ausencia del elemento generador del mismo y no habi\u00e9ndose constado la existencia de temeridad, lo que trae consigo la confirmaci\u00f3n del auto apelado. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 19
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por todo lo expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL DE PANAM\u00c1, administrando Justicia en nombre de la Rep\u00fablica y por Autoridad de la Ley, CONFIRMA el Auto No.91 de diecisiete (17) de enero de dos mil dieciocho (2018), dictado por el Juzgado Decimos\u00e9ptimo de Circuito Civil del Primer Circuito Judicial de Panam\u00e1, dentro del Proceso Ordinaria propuesto por INVERSIONES Y FINANZAS REY, S.A., contra SANTIAGO MONTERUIZ, RANDOLPH LEWIN JEREMIAH BARROW y DAVID GUARDIA QUIJADA.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 20
+            }
+        ],
+        "Notificados": [
+            {
+                "Titulo": "0",
+                "Nombre": "CARLOS RA\u00daL TRUJILLO SAGEL \u2013 MAGISTRADO ",
+                "Numero": "22"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "LILIANNE DUCRET - MAGISTRADA",
+                "Numero": "23"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MIGUEL A. ESPINO G. - MAGISTRADO",
+                "Numero": "24"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "Jos\u00e9 Karama\u00f1ites - Secretario",
+                "Numero": "25"
+            }
+        ]
+    },
+    {
+        "Nombre": "20180822_OLMEDO_vs_FISCAL_SEGUNDO_DESCARGA_rev",
+        "Entrada": "18AMP1.317 ",
+        "Tipo": "Amparo de Garant\u00edas Constitucionales",
+        "Fecha": "2018-08-22 00:00:00",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+        "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+        "Articulos": "0",
+        "Responsable": {
+            "Tipo": "MAGISTRADA ",
+            "Nombre": "LILIANNE M. DUCRETE N."
+        },
+        "Partes": [
+            {
+                "Relevancia": "Demandante",
+                "Nombre": "FRANZ OLMEDO WEVER ZALDIVAR ",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "SERGIO YORETT",
+                "Titulo": "FISCAL SEGUNDO DE DESCARGA DE PANAM\u00c1",
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            }
+        ],
+        "Cuerpo": [
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Conoce el Primer Tribunal Superior la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Circuito de Descarga de Panam\u00e1, en ocasi\u00f3n de haber dictado la Vista Fiscal N\u00ba1277 de 16 de junio del 2017. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 0
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Corresponde seguidamente el pronunciamiento sobre la admisibilidad de la acci\u00f3n de amparo, para lo cual el Tribunal debe, en primer lugar verificar si la misma satisface las exigencias de los art\u00edculos 2615, 2616 y 2619 del C\u00f3digo Judicial. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 1
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En esa direcci\u00f3n, se cumplieron con los requisitos m\u00ednimos exigidos por las disposiciones legales en comento, ya que se menciona el acto impugnado, el servidor p\u00fablico que la expidi\u00f3, los hechos en que se funda la pretensi\u00f3n constitucional y las garant\u00edas fundamentales que estiman fueron infringidas. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 2
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Tambi\u00e9n se advierte que el apoderado del amparista acompa\u00f1\u00f3 copia autenticada de la Vista Penal No.1277 de 16 de junio de 2017, que contiene la orden atacada en esta acci\u00f3n, tal como lo exige el \u00faltimo p\u00e1rrafo del art\u00edculo 2619 del C\u00f3digo Judicial ",
+                "Articulo": [
+                    "2619"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Tambi\u00e9n se advierte que el apoderado del amparista acompa\u00f1\u00f3 copia autenticada de la Vista Penal No.1277 de 16 de junio de 2017, que contiene la orden atacada en esta acci\u00f3n, tal como lo exige el \u00faltimo p\u00e1rrafo del art\u00edculo 2619 del C\u00f3digo Judicial ",
+                "Articulo": [
+                    "2619"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "As\u00ed mismo se advierte que el amparo ha sido incoado por quien tiene inter\u00e9s en la revocaci\u00f3n de la orden impugnada e igualmente se advierte que el amparo est\u00e1 dirigido contra el funcionario que dict\u00f3 la orden atacada, con lo que se cumplen los presupuestos de legitimaci\u00f3n activa y pasiva. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 4
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Ahora bien, este Tribunal de Amparo debe advertir que en el presente caso el accionante no ha acreditado haber agotado los medios y tr\u00e1mites previstos en la ley para la impugnaci\u00f3n de la orden objeto de este recurso, requisito indispensable para que pueda proceder el amparo, tal como lo exige el numeral 2 del art\u00edculo 2615 del C\u00f3digo Judicial. ",
+                "Articulo": [
+                    "2615"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Ahora bien, este Tribunal de Amparo debe advertir que en el presente caso el accionante no ha acreditado haber agotado los medios y tr\u00e1mites previstos en la ley para la impugnaci\u00f3n de la orden objeto de este recurso, requisito indispensable para que pueda proceder el amparo, tal como lo exige el numeral 2 del art\u00edculo 2615 del C\u00f3digo Judicial. ",
+                "Articulo": [
+                    "2615"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Seg\u00fan se desprende de la Vista Penal No.1277, de 16 de junio de 2017, la misma se expidi\u00f3 dentro de las sumar\u00edas seguidas al amparista y otros por la presunta comisi\u00f3n de un delito contra el patrimonio econ\u00f3mico en perjuicio del Comit\u00e9 Ol\u00edmpico de Panam\u00e1 y fue expedida por la Fiscal\u00eda Segunda de Descarga del Primer Circuito Judicial de Panam\u00e1. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Y sabido es que las actuaciones del Ministerio P\u00fablico, conforme el art\u00edculo 1993 del C\u00f3digo Judicial, deben ser objetadas por las partes mediante incidente de controversia, el que ser\u00e1 resuelto por el Tribunal competente. ",
+                "Articulo": [
+                    "1993"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 7
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Y sabido es que las actuaciones del Ministerio P\u00fablico, conforme el art\u00edculo 1993 del C\u00f3digo Judicial, deben ser objetadas por las partes mediante incidente de controversia, el que ser\u00e1 resuelto por el Tribunal competente. ",
+                "Articulo": [
+                    "1993"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 7
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "El criterio de que para poder promover un amparo contra una actuaci\u00f3n del Ministerio P\u00fablico se requiere haber agotado el incidente de controversia dispuesto en el art\u00edculo 1993 del C\u00f3digo Judicial, ha sido sostenido reiterada y consistentemente por el Pleno de la Corte Suprema de Justicia. A manera de ejemplo tenemos fallo de la Corte Suprema de Justicia, de fecha 18 de marzo de 2014, bajo la ponencia del Exmagistrado Harley J. Mitchell D., que en la parte pertinente dice as\u00ed:",
+                "Articulo": [
+                    "1993"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 8
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "El criterio de que para poder promover un amparo contra una actuaci\u00f3n del Ministerio P\u00fablico se requiere haber agotado el incidente de controversia dispuesto en el art\u00edculo 1993 del C\u00f3digo Judicial, ha sido sostenido reiterada y consistentemente por el Pleno de la Corte Suprema de Justicia. A manera de ejemplo tenemos fallo de la Corte Suprema de Justicia, de fecha 18 de marzo de 2014, bajo la ponencia del Exmagistrado Harley J. Mitchell D., que en la parte pertinente dice as\u00ed:",
+                "Articulo": [
+                    "1993"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 8
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "\u201cVemos, que la decisi\u00f3n impugnada del A-quo es la no admisi\u00f3n de la acci\u00f3n de garant\u00eda propuesta contra la vista Fiscal referida puesto que se estim\u00f3, que el accionante acusa otras actuaciones de la agente de instrucci\u00f3n en distintos momentos procesales durante la investigaci\u00f3n, lo que consider\u00f3 impreciso, adem\u00e1s porque no refiri\u00f3 cu\u00e1l fue el tr\u00e1mite o la norma que gener\u00f3 la infracci\u00f3n de la garant\u00eda del debido proceso. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 9
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "De otro modo observamos que el accionante en el recurso de apelaci\u00f3n esgrimi\u00f3, que se debe admitir esta acci\u00f3n constitucional porque la Fiscal demandada viol\u00f3 el debido proceso, toda vez que no cit\u00f3 personalmente a su poderdante para que rindiera declaraci\u00f3n indagatoria; no valor\u00f3 un escrito pruebas que present\u00f3 durante la investigaci\u00f3n y tampoco consider\u00f3 antes de emitir la Vista Fiscal, que el Juez Quinto de Circuito Penal del Primer Circuito Judicial estaba conociendo de un incidente de controversia formulado sobre pruebas. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 10
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Acotado lo anterior, debemos remitirnos a lo dispuesto en el art\u00edculo 1993 en concordancia con el 2616 del C\u00f3digo Judicial, atendiendo a que todas las actuaciones de los agentes del Ministerio P\u00fablico podr\u00e1n ser objetadas a trav\u00e9s del incidente de controversia, motivo por el cual previo a la interposici\u00f3n de esta acci\u00f3n de garant\u00eda, deben agotarse los medios id\u00f3neos que brinda la ley para que proceda la admisibilidad de la acci\u00f3n...\u201d (Corte Suprema de Justicia, Panam\u00e1, Harley J. Mitchell D. 18 de marzo de 2014, Amparo de Garant\u00edas Constitucionales. Resaltado es nuestro) ",
+                "Articulo": [
+                    "1993 en concordancia con"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 11
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Acotado lo anterior, debemos remitirnos a lo dispuesto en el art\u00edculo 1993 en concordancia con el 2616 del C\u00f3digo Judicial, atendiendo a que todas las actuaciones de los agentes del Ministerio P\u00fablico podr\u00e1n ser objetadas a trav\u00e9s del incidente de controversia, motivo por el cual previo a la interposici\u00f3n de esta acci\u00f3n de garant\u00eda, deben agotarse los medios id\u00f3neos que brinda la ley para que proceda la admisibilidad de la acci\u00f3n...\u201d (Corte Suprema de Justicia, Panam\u00e1, Harley J. Mitchell D. 18 de marzo de 2014, Amparo de Garant\u00edas Constitucionales. Resaltado es nuestro) ",
+                "Articulo": [
+                    "1993 en concordancia con"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 11
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En resumen, como quiera que no se acredit\u00f3 que se hubieren agotado los medios o tr\u00e1mites previstos en la ley para enervar la orden atacada, este Tribunal considera la demanda indebidamente formulada y manifiestamente improcedente; y, en consecuencia, estima no debe admitirla, en base a lo preceptuado en el art\u00edculo 2620 del C\u00f3digo Judicial, a contrario sensu. ",
+                "Articulo": [
+                    "2620"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 12
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "En resumen, como quiera que no se acredit\u00f3 que se hubieren agotado los medios o tr\u00e1mites previstos en la ley para enervar la orden atacada, este Tribunal considera la demanda indebidamente formulada y manifiestamente improcedente; y, en consecuencia, estima no debe admitirla, en base a lo preceptuado en el art\u00edculo 2620 del C\u00f3digo Judicial, a contrario sensu. ",
+                "Articulo": [
+                    "2620"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 12
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Por lo anteriormente expuesto, el PRIMER TRIBUNAL SUPERIOR DEL PRIMER DISTRITO JUDICIAL, administrando justicia en nombre de la Rep\u00fablica y por la autoridad de la Ley, NO ADMITE, la demanda de Amparo de Derechos Constitucionales presentada por FRANZ OLMEDO WEVER ZALDIVAR en contra del Fiscal Segundo de Descarga del Circuito de Panam\u00e1, en ocasi\u00f3n de haber dictado la Vista Fiscal N\u00ba1277 de 16 de junio de 2017",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 13
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "T\u00e9ngase al Doctor Jos\u00e9 Rigoberto Acevedo, como apoderado judicial del pretensor en los t\u00e9rminos conferidos en el poder ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 14
+            }
+        ],
+        "Notificados": [
+            {
+                "Titulo": "0",
+                "Nombre": "MAG. LILIANNE M. DUCRET N.",
+                "Numero": "16"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MAG. NELSON H. RUIZ C.",
+                "Numero": "17"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MAG. CARLOS R TRUJILLO SAJEL",
+                "Numero": "18"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "LICDO. JOS\u00c9 J. KARAMA\u00d1ITES",
+                "Numero": "19"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "SECRETARIO",
+                "Numero": "20"
+            }
+        ]
+    },
+    {
+        "Nombre": "20180822_RODRIGUEZ_vs_JUEZ_PRIMERO_CIRCUITO_PENAL_rev",
+        "Entrada": "18AMP1.290",
+        "Tipo": "Amparo de Garant\u00edas Constitucionales",
+        "Fecha": "2018-08-22 00:00:00",
+        "Institucion": "PRIMER TRIBUNAL SUPERIOR ",
+        "Distrito_Judicial": " PRIMER DISTRITO JUDICIAL",
+        "Articulos": "0",
+        "Responsable": {
+            "Tipo": "Mag. Ponente",
+            "Nombre": " MIGUEL A. ESPINO G."
+        },
+        "Partes": [
+            {
+                "Relevancia": "Demandado",
+                "Nombre": "Elvis Anel Rodr\u00edguez",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            },
+            {
+                "Relevancia": "Demandante",
+                "Nombre": " Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panam\u00e1",
+                "Titulo": 0,
+                "Tipo": 0,
+                "Cedula": 0,
+                "Domicilio": 0
+            }
+        ],
+        "Cuerpo": [
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Conoce el Primer Tribunal la demanda de Amparo de Derechos Constitucionales presentada por Elvis Anel Rodr\u00edguez en contra del Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panam\u00e1, en ocasi\u00f3n de los Actos adoptados durante la audiencia plenaria que se llev\u00f3 a cabo el d\u00eda I 9 de abril del 2018 en la Sala de Audiencias del Juzgado Primero de Circuito Ramo Penal del Tercer Circuito Judicial de Panam\u00e1. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 0
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Una vez admitida la demanda constitucional mediante providencia del 23 de julio del 2018 se requiere del funcionario demandado su actuaci\u00f3n o un informe sobre los hechos materia de la demanda quien opta por remitir las constancias procesales. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 1
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "De los fundamentos de la pretensi\u00f3n constitucional: ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 2
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "\u201cEn el acta de audiencia oral celebrada el 19 de abril de 2018, hab\u00eda sido aducido por parte nuestra como defensa t\u00e9cnica la comparencia de los testigos Dik Gilberto Rodr\u00edguez Alonso, Alcibiades Benitez Nu\u00f1ez, Miguel Angel Rodr\u00edguez y Eloisa Pascual Chiru. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 3
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Estas personas rindieron su testimonio tal como se hab\u00eda programado y peticionado por nosotros. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 4
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Luego que se surtiese el interrogatorio por nosotros como defensa t\u00e9cnica, el Ministerio P\u00fablico, el Representante de la querella, y el abogado defenso del coimputado, el Juez Edgar Nateron Rodriguez, procedi\u00f3 a hacer un interrogatorio a los se\u00f1ores Dik Gilberto Rodr\u00edguez Alonso, Alcibiades Benitez Nu\u00f1ez, Miguel Angel Rodriguez y Eloisa Pascual Chiru. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 5
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Con su actuaci\u00f3n, no solo vulnera y se aleja de su condici\u00f3n de Juez que debe mantener una conducta de imparcialidad e independencia, sino que incluso procede a emitir ep\u00edtetos de amenaza contra dos de ellos, cuando los testigos se toman nerviosos ante sus palabras y titubean en su testimonio. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 6
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "La separaci\u00f3n de funciones, que se encuentra consignado en el art\u00edculo 5 del C\u00f3digo Procesal Penal, le priva al juez de hacer este tipo de interrogatorios, abrog\u00e1ndose la condici\u00f3n de las partes intervinientes. ",
+                "Articulo": [
+                    "5"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Procesal Penal"
+                ],
+                "Numero": 7
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "La separaci\u00f3n de funciones, que se encuentra consignado en el art\u00edculo 5 del C\u00f3digo Procesal Penal, le priva al juez de hacer este tipo de interrogatorios, abrog\u00e1ndose la condici\u00f3n de las partes intervinientes. ",
+                "Articulo": [
+                    "5"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Procesal Penal"
+                ],
+                "Numero": 7
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Es sumamente reprochable la actuaci\u00f3n del Juez en el acto de audiencia, ya que al actuar de esta manera provoc\u00f3 temor en los testigos, al interpelarlos de la manera que lo hizo.",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 8
+            },
+            {
+                "Tipo": "Body_2",
+                "Contenido": "Incluso se esgrimieron ep\u00edtetos de abrirles causa por un supuesto delito de Falso testimonio. Se trat\u00f3 de un acto bochornoso, en el cual la imparcialidad que deb\u00eda mantener el Juez a lo largo de la audiencia se vulner\u00f3 de manera flagrante.\u201d ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 9
+            },
+            {
+                "Tipo": "Head_1",
+                "Contenido": "DE LOS DERECHOS FUNDAMENTALES QUE SE SE\u00d1ALAN INFRINGIDOS. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 10
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "La decisi\u00f3n que se ataca, se\u00f1ala el pretensor, es una orden de hacer que violenta el debido tr\u00e1mite de ley quebrant\u00e1ndose el art\u00edculo 32 de la Constituci\u00f3n Pol\u00edtica que consagra el debido proceso. ",
+                "Articulo": [
+                    "32"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "Constituci\u00f3n Pol\u00edtica"
+                ],
+                "Numero": 11
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "La decisi\u00f3n que se ataca, se\u00f1ala el pretensor, es una orden de hacer que violenta el debido tr\u00e1mite de ley quebrant\u00e1ndose el art\u00edculo 32 de la Constituci\u00f3n Pol\u00edtica que consagra el debido proceso. ",
+                "Articulo": [
+                    "32"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "Constituci\u00f3n Pol\u00edtica"
+                ],
+                "Numero": 11
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Igualmente se se\u00f1ala como lesionadas las garant\u00edas judiciales que se establecen en el art\u00edculo 8 de la Convenci\u00f3n Americana de los Derechos Humanos, y en su petici\u00f3n de fondo la parte demandante solicita al Tribunal se revoque la orden de hacer proferida por el Juez Primero de Circuito del Tercer Circuito Judicial de Panam\u00e1 suplente Edgar Nater\u00f3n, consistente en proceder a interrogar a los testigos en la audiencia del 19 de abril del 2018. ",
+                "Articulo": [
+                    "8"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "Convenci\u00f3n Americana de los Derechos Humanos"
+                ],
+                "Numero": 12
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Igualmente se se\u00f1ala como lesionadas las garant\u00edas judiciales que se establecen en el art\u00edculo 8 de la Convenci\u00f3n Americana de los Derechos Humanos, y en su petici\u00f3n de fondo la parte demandante solicita al Tribunal se revoque la orden de hacer proferida por el Juez Primero de Circuito del Tercer Circuito Judicial de Panam\u00e1 suplente Edgar Nater\u00f3n, consistente en proceder a interrogar a los testigos en la audiencia del 19 de abril del 2018. ",
+                "Articulo": [
+                    "8"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "Convenci\u00f3n Americana de los Derechos Humanos"
+                ],
+                "Numero": 12
+            },
+            {
+                "Tipo": "Head_1",
+                "Contenido": "CRITERIO Y DECISI\u00d3N DEL TRIBUNAL ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 13
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Una vez le\u00eddos los cargos que se le imputan a la actuaci\u00f3n del Juez el Tribunal procede a escuchar el extenso audio y no encuentra que se fundamente la presente acci\u00f3n constitucional, toda vez que contrario a lo se\u00f1alado por el demandante, el juzgador \u00fanicamente recibe a los testigos, les pregunta sus datos y luego lee el art\u00edculo 385 del C\u00f3digo Penal que establece como delito el falso testimonio. ",
+                "Articulo": [
+                    "385"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Penal"
+                ],
+                "Numero": 14
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Una vez le\u00eddos los cargos que se le imputan a la actuaci\u00f3n del Juez el Tribunal procede a escuchar el extenso audio y no encuentra que se fundamente la presente acci\u00f3n constitucional, toda vez que contrario a lo se\u00f1alado por el demandante, el juzgador \u00fanicamente recibe a los testigos, les pregunta sus datos y luego lee el art\u00edculo 385 del C\u00f3digo Penal que establece como delito el falso testimonio. ",
+                "Articulo": [
+                    "385"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Penal"
+                ],
+                "Numero": 14
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Es de se\u00f1alar que con la demanda se acompa\u00f1a una transcripci\u00f3n de la audiencia que es bastante fiel a lo que se present\u00f3, aunque no se trascriben las preguntas a los testigos ni sus respuestas en vinculaci\u00f3n con el caso. Pero s\u00ed se trascribe lo se\u00f1alado por el Juzgador a cada uno de ellos. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 15
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "El Tribunal se\u00f1ala que se colocan en palabras del juzgador situaciones que no se identifican en el audio, es decir, el demandante no se\u00f1ala a qu\u00e9 minutos de la grabaci\u00f3n se encuentran los actos que supuestamente son lesivos a los derechos del demandante constitucional. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 16
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Se recuerda, que de acuerdo al art\u00edculo 2619 con la demanda de amparo de derechos se debe presentar la prueba de la orden impartida, lo que en el medio inform\u00e1tico se determina al identificar y dar la ubicaci\u00f3n del momento en el que se presentan los actos o hechos que son reclamados a nivel jurisdiccional. ",
+                "Articulo": [
+                    "2619"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 17
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "Se recuerda, que de acuerdo al art\u00edculo 2619 con la demanda de amparo de derechos se debe presentar la prueba de la orden impartida, lo que en el medio inform\u00e1tico se determina al identificar y dar la ubicaci\u00f3n del momento en el que se presentan los actos o hechos que son reclamados a nivel jurisdiccional. ",
+                "Articulo": [
+                    "2619"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "C\u00f3digo Judicial"
+                ],
+                "Numero": 17
+            },
+            {
+                "Tipo": "Body_1",
+                "Contenido": "De los documentos adjuntos con la demanda, observa el Tribunal que de la simple lectura del acta trascrita se evidencia que el Juzgador penal demandado no ha faltado a su imparcialidad, ni mucho menos amenazado a los testigos, como se se\u00f1ala en los fundamentos de la demanda por lo antes expuesto, el PRIMER TRIBUNAL SUPERIOR DE la Rep\u00fablica y por autoridad de la Ley, NO CONCEDE el Amparo de Derechos Constitucionales presentado por Elvis Anel Rodr\u00edguez en contra del Juez Primero de Circuito de lo Penal Encargado del Tercer Circuito Judicial de Panam\u00e1, en ocasi\u00f3n de los Actos adoptados durante la audiencia plenaria que se llev\u00f3 a cabo el d\u00eda 19 de abril del 2018. ",
+                "Articulo": [
+                    "0"
+                ],
+                "numerales": [
+                    "0"
+                ],
+                "codigos": [
+                    "0"
+                ],
+                "Numero": 18
+            }
+        ],
+        "Notificados": [
+            {
+                "Titulo": "0",
+                "Nombre": "MAGDO. MIGUEL A. ESPINO G.",
+                "Numero": "20"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MAGDA. LILIANNE M. DUCRET N.",
+                "Numero": "21"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "MAGDO. NELSON H. RUIZ. C.",
+                "Numero": "22"
+            },
+            {
+                "Titulo": "0",
+                "Nombre": "Licdo. Jos\u00e9 J. Karama\u00f1ites - Secretario",
+                "Numero": "23"
+            }
+        ]
     }
   ]
 }
